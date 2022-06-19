@@ -1,7 +1,7 @@
 # DesignAnalysisOfAlgorithms
 <hr/>
 Programs and its Design &amp; Analysis Of Algorithms
-<hr/>
+<br/>
 1. Recurssive & Non-Recurssive Problems
 2. Computing a<sup>n</sup>
 3. String matching
