@@ -2,6 +2,7 @@
 <br/>
 Programs and its Design &amp; Analysis Of Algorithms
 <br/>
+<ol>
 1. Recurssive & Non-Recurssive Problems
 2. Computing a<sup>n</sup>
 3. String matching
@@ -36,4 +37,5 @@ Programs and its Design &amp; Analysis Of Algorithms
 32. Maximum Flow Problem
 33. Maximum matching in BiPartite Graph
 34. Stable Marriage Problem
+ </ol>
 <br/>
