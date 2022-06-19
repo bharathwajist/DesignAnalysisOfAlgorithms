@@ -1,5 +1,5 @@
 # DesignAnalysisOfAlgorithms
-<hr/>
+<br/>
 Programs and its Design &amp; Analysis Of Algorithms
 <br/>
 1. Recurssive & Non-Recurssive Problems
@@ -36,5 +36,4 @@ Programs and its Design &amp; Analysis Of Algorithms
 32. Maximum Flow Problem
 33. Maximum matching in BiPartite Graph
 34. Stable Marriage Problem
-<hr/>
 <br/>
